@@ -4,7 +4,7 @@ body {
   color : #5b5b5b ;
   font-family:"comfortaa";
   font-size: 15px ;
-  background-color : #a98b98
+  background-color : #a98b98;
 }
 
 h1,h2 {
@@ -21,11 +21,11 @@ div {
   margin : 30px ;
   border-radius : 10px ;
   box-shadow: 0 15px 20px rgba(0,0,0,.1);
-  background-color : #faf3e0
+  background-color : #faf3e0;
 }
 
 div p {
-  padding : 20px
+  padding : 20px;
 }
 
 div:hover{
@@ -33,7 +33,7 @@ div:hover{
 }
 
 img {
-  border-radius : 130px
+  border-radius : 130px;
 }
 
 .top {
