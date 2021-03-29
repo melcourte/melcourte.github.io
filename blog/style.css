@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:ital,wght@0,400;1,200;1,400&display=swap')
+
+
+body{
+  margin: 0px;
+  background-color: #FEFAF3;
+}
+
+.hero{
+  height: 50vh;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://www.lepoint.fr/images/2019/06/02/18876679lpw-18899961-article-jpg_6251630_1250x625.jpg");
+  background-size: cover;
+  margin: 0px
+}
+
+.titre-intro {
+  color: #00139D;
+  text-shadow: 1px 1px 0px #FF701D;
+  text-align: center;
+  font-family : "Poppins", sans-serif;
+  font-weight: light;
+  padding: 0px
+}
+
+.bloc h1{
+  background-color: #FF701D;  
+  text-align: center;
+  padding: 20px;
+  color: white;
+  font-family:"Anton",sans-serif;
+  font-size: 37px;
+  opacity: 87%;
+  border-radius : 15px
+}
+
+
+.intro{
+  padding: 0px;
+  font-size : 13pt;
+  text-align : center;
+  font-family: "poppins", sans-serif
+}
+
+.txt-top{
+  font-family: "poppins", sans-serif;
+}
+
+.pic{
+  width: 350px;
+  length: 350px;
+}
+
+.box{
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+  border: 1px solid;
+  border-radius: 7px;
+  border-color: #FFFEDF;
+  box-shadow:0 7px 15px rgba(0,0,0,.2);
+}
+
+h2{
+  font-family:"Anton",sans-serif;
+}
+
+p{
+  font-family: "poppins", sans-serif;
+}
+
+.text{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px
+}
+
+.img{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.img-big{
+  display: flex;
+  justify-content: flex-end;
+  padding: 7px;
+  width: 470px;
+  height: 340px;
+}
+
+.img-big2{
+  display: flex;
+  justify-content: flex-end;
+  padding: 7px;
+  width: 530px;
+  height: 330px;
+}
+
+.title{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 10px
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+}
+
+.txt-sml{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  width: 400px;
+}
+
+.txt-sml2{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  width: 330px;
+}
+
+.txt-big{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  width: 550px;
+}
+
+.margin{
+  margin: 10px;
+}
+
+.img3{
+  display: flex;
+  justify-content: flex-end;
+  padding: 7px;
+  width: 350px;
+  height: 250px;
+  flex-wrap: wrap;
+}
